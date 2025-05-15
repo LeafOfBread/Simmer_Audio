@@ -11,6 +11,11 @@
         integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
         crossorigin="anonymous"></script>
     <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="/resources/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/resources/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/resources/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/resources/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="/resources/favicon/site.webmanifest" />
     <script src="script.js" defer></script>
 </head>
 
